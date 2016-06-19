@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="1466334358763250000"
+    token="-1062823706404566997" >
+
+    <task
+        name="javac"
+        duration="114" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="7" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/Leon/Desktop/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+
+    <build timestamp="1466333055871058000" >
+        <artifact
+            location="/Users/Leon/Desktop/android-BluetoothChat-master/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="1466334358763250000" >
+        <artifact
+            location="/Users/Leon/Desktop/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
